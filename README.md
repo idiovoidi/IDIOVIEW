@@ -1,5 +1,5 @@
 # ID:I/O VIEW
-Organizational Image database
+Organizational media library for curation and sorting of media assets 
 
 ## 🌟 Features
 ### Image Management
@@ -8,16 +8,15 @@ Organizational Image database
 - Matplotlib & Seaborn to draw both fun and useful graphs
 
 ## Core Concepts
-- Metadata is primarily written to the file to reduce clutter (as opposed to sidecars) and ensure its survival as the metadata will always be with its respective file
+- Metadata written to file to reduce clutter (sidecar alternative) and ensures longevity as a single file 
+- Organizational Only, no image processing as there are plenty of solid options. Simply "Open With" suffices
 
 ## 🔧 Installation
 (Placeholder)
 
-## 🛠️ Configuration
-
-The application looks for images in the default InvokeAI output directory. You can modify this in the settings:
-
 ## 🛣️ Roadmap
 - Support for audio and video formats
-- Support for audio and video formats
+- Auto-Tagging via AI image recognition and AI auto-tags that can be confirmed into standard tags
+- Integration with Stable Diffusion and web platforms for easy reiteration of prompts and settings
+- Prompt Manager for sorting the best prompts and breaking them down for re-use in a modular way (might branch off into a seperate project)
 
