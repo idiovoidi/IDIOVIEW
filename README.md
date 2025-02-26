@@ -19,4 +19,5 @@ Organizational media library for curation and sorting of media assets
 - Auto-Tagging via AI image recognition and AI auto-tags that can be confirmed into standard tags
 - Integration with Stable Diffusion and web platforms for easy reiteration of prompts and settings
 - Prompt Manager for sorting the best prompts and breaking them down for re-use in a modular way (might branch off into a seperate project)
+- De-Duping (likely Czkawka integration)
 
