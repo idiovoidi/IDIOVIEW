@@ -2,6 +2,12 @@
 # ID:I/O VIEW
 Organizational media library for curation and sorting of media assets 
 
+[Imgur](https://imgur.com/5Vi15fT)
+
+[img]https://i.imgur.com/5Vi15fT.png[/img]
+
+https://imgur.com/5Vi15fT
+
 ## Warning! 
 ID:I/O VIEW is very early and most features are broken in my latest version. I've had to do a major refactor to be more component based for performance and extensibility. I started working on ID:I/O VIEW in October, 2024 and have dumped tons of time working solo into it. I wanted to get all the features operational before finally posting but it's taking up too much time for a side project. If people show interest in the project I'd be willing to pick it back up but I'm wanting to finish some other projects before I eventually return to this one.
 
