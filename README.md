@@ -1,8 +1,8 @@
 
-# ID:I/O VIEW
+# ID:I/O VIEW ![Eye-Logo-48-Bicubic](https://github.com/user-attachments/assets/934f8ddd-b02d-4fd9-8426-9aa40e1c988e)
 Organizational media library for curation and sorting of media assets 
 
-![Eye-Logo-48-Bicubic](https://github.com/user-attachments/assets/934f8ddd-b02d-4fd9-8426-9aa40e1c988e)
+
 
 ## Warning! 
 ID:I/O VIEW is very early and most features are broken in my latest version. I've had to do a major refactor to be more component based for performance and extensibility. I started working on ID:I/O VIEW in October, 2024 and have dumped tons of time working solo into it. I wanted to get all the features operational before finally posting but it's taking up too much time for a side project. If people show interest in the project I'd be willing to pick it back up but I'm wanting to finish some other projects before I eventually return to this one.
