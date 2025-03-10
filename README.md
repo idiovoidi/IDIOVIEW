@@ -1,3 +1,4 @@
+<blockquote class="imgur-embed-pub" lang="en" data-id="5Vi15fT"><a href="https://imgur.com/5Vi15fT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 # ID:I/O VIEW
 Organizational media library for curation and sorting of media assets 
 
