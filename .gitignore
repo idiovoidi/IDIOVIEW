@@ -1,0 +1,43 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+.specstory/
+user_data/
+
+# Logs
+logs/
+*.log
+
+# Cache directories
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE specific files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Thumbnail cache
+
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+config/usersettings/saved_locations.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3

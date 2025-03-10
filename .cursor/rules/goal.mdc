@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+---
+---
+description: Fallback implementation ideas
+globs: 
+---
+Ideas:
+- Dependency injection can decouple components. For example, the MetadataManager shouldn't be directly instantiated in multiple places but injected where needed. This makes testing easier and components more reusable.
+- Use composition over inheritance
+
+
+Use singleton provider classes with dependency injection to ensure instances are kept stable throughout the application.
